@@ -6,9 +6,9 @@
 
 ## 🔹 Features
 
-  **- Report Stolen Vehicles** – Easily submit details about a stolen car.  
-  **- Search Reports** – Check for reported stolen vehicles in your area.  
-  **- Community Alerts** – Receive notifications about stolen vehicle reports.  
+- **Report Stolen Vehicles** – Easily submit details about a stolen car.  
+- **Search Reports** – Check for reported stolen vehicles in your area.  
+- **Community Alerts** – Receive notifications about stolen vehicle reports.  
 
 ---
 
